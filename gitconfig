@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = cp.sarah@gmail.com
+	name = Sarah Cameron Pesant
